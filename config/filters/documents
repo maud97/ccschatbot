@@ -1,0 +1,284 @@
+{
+  "documents": [
+    {
+      "metadata_filter": "ccshfnref2025",
+      "title": "2025 CCS/CHFS Guideline Update for Pharmacologic Management of Heart Failure With Nonreduced Ejection Fraction (LVEF > 40%)",
+      "year": 2025,
+      "topic": "Heart Failure",
+      "guideline_url": "https://www.sciencedirect.com/science/article/pii/S0828282X25006403",
+      "alt_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41110921/"
+      ],
+      "keywords": [
+        "heart failure",
+        "HFnrEF",
+        "HFpEF",
+        "HFmrEF",
+        "nonreduced ejection fraction",
+        "LVEF > 40%",
+        "preserved EF",
+        "mildly reduced EF",
+        "SGLT2 inhibitor",
+        "MRA",
+        "mineralocorticoid receptor antagonist",
+        "ARNI",
+        "angiotensin receptor-neprilysin inhibitor",
+        "GLP-1 receptor agonist",
+        "pharmacologic management"
+      ]
+    },
+    {
+      "metadata_filter": "ccshfref2021",
+      "title": "CCS/CHFS Heart Failure Guidelines Update: Defining a New Pharmacologic Standard of Care for Heart Failure With Reduced Ejection Fraction (HFrEF)",
+      "year": 2021,
+      "topic": "Heart Failure",
+      "guideline_url": "https://www.sciencedirect.com/science/article/pii/S0828282X21000556",
+      "alt_urls": [],
+      "keywords": [
+        "heart failure",
+        "HFrEF",
+        "reduced ejection fraction",
+        "quadruple therapy",
+        "GDMT",
+        "ARNI",
+        "beta-blocker",
+        "beta blocker",
+        "MRA",
+        "SGLT2 inhibitor",
+        "initiation",
+        "titration",
+        "mortality",
+        "heart failure hospitalization"
+      ]
+    },
+    {
+      "metadata_filter": "ccsvtvf2020",
+      "title": "2020 CCS/CHRS Position Statement on the Management of Ventricular Tachycardia and Fibrillation in Patients with Structural Heart Disease",
+      "year": 2020,
+      "topic": "Arrhythmia",
+      "guideline_url": "https://pubmed.ncbi.nlm.nih.gov/32536373/",
+      "alt_urls": [],
+      "keywords": [
+        "ventricular tachycardia",
+        "VT",
+        "ventricular fibrillation",
+        "VF",
+        "structural heart disease",
+        "sustained VT",
+        "sudden cardiac death",
+        "ICD",
+        "implantable cardioverter defibrillator",
+        "risk stratification",
+        "antiarrhythmic",
+        "catheter ablation"
+      ]
+    },
+    {
+      "metadata_filter": "ccsdyslipidemia2021",
+      "title": "2021 Canadian Cardiovascular Society Guidelines for the Management of Dyslipidemia for the Prevention of Cardiovascular Disease in Adults",
+      "year": 2021,
+      "topic": "Dyslipidemia",
+      "guideline_url": "https://pubmed.ncbi.nlm.nih.gov/33781847/",
+      "alt_urls": [],
+      "keywords": [
+        "dyslipidemia",
+        "lipids",
+        "LDL",
+        "non-HDL",
+        "risk assessment",
+        "Framingham Risk Score",
+        "lifestyle",
+        "pharmacotherapy",
+        "nonstatin",
+        "lipoprotein(a)",
+        "Lp(a)",
+        "coronary artery calcium",
+        "CAC",
+        "women",
+        "hypertensive disorders of pregnancy"
+      ]
+    },
+    {
+      "metadata_filter": "ccsantiplatelet2024",
+      "title": "2024 CCS/CAIC Focused Update of the Guidelines for the Use of Antiplatelet Therapy",
+      "year": 2024,
+      "topic": "Acute Coronary Syndromes",
+      "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2823%2901841-X/fulltext",
+      "alt_urls": [],
+      "keywords": [
+        "antiplatelet",
+        "dual antiplatelet therapy",
+        "DAPT",
+        "acute coronary syndrome",
+        "ACS",
+        "post-PCI",
+        "PCI",
+        "secondary prevention",
+        "aspirin",
+        "P2Y12 inhibitor",
+        "agent selection",
+        "duration"
+      ]
+    },
+    {
+      "metadata_filter": "ccsstemi2019",
+      "title": "2019 CCS/CAIC Guidelines on the Acute Management of ST-Elevation Myocardial Infarction: Focused Update on Regionalization and Reperfusion",
+      "year": 2019,
+      "topic": "Acute Coronary Syndromes",
+      "guideline_url": "https://www.sciencedirect.com/science/article/abs/pii/S0828282X18313217",
+      "alt_urls": [],
+      "keywords": [
+        "STEMI",
+        "ST-elevation myocardial infarction",
+        "reperfusion",
+        "primary PCI",
+        "thrombolysis",
+        "regionalization",
+        "STEMI system of care",
+        "PCI networks",
+        "time-to-reperfusion",
+        "complications",
+        "secondary prevention"
+      ]
+    },
+    {
+      "metadata_filter": "ccsstableihd2014",
+      "title": "Canadian Cardiovascular Society Guidelines for the Diagnosis and Management of Stable Ischemic Heart Disease",
+      "year": 2014,
+      "topic": "Coronary Artery Disease",
+      "guideline_url": "https://www.sciencedirect.com/science/article/pii/S0828282X14003560",
+      "alt_urls": [],
+      "keywords": [
+        "stable ischemic heart disease",
+        "stable angina",
+        "chronic coronary artery disease",
+        "CAD",
+        "diagnostic testing",
+        "angina workup",
+        "medical therapy",
+        "antianginal",
+        "risk factor control",
+        "revascularization",
+        "follow-up"
+      ]
+    },
+    {
+      "metadata_filter": "ccsaf2020",
+      "title": "2020 CCS/CHRS Comprehensive Guidelines for the Management of Atrial Fibrillation",
+      "year": 2020,
+      "topic": "Arrhythmia",
+      "guideline_url": "https://pubmed.ncbi.nlm.nih.gov/33191198/",
+      "alt_urls": [],
+      "keywords": [
+        "atrial fibrillation",
+        "AF",
+        "stroke prevention",
+        "anticoagulation",
+        "DOAC",
+        "warfarin",
+        "CHA2DS2-VASc",
+        "rate control",
+        "rhythm control",
+        "clinically significant AF",
+        "valvular AF",
+        "mechanical valve",
+        "heart failure",
+        "renal impairment"
+      ]
+    },
+    {
+      "metadata_filter": "ccstavi2019",
+      "title": "2019 Canadian Cardiovascular Society Position Statement for Transcatheter Aortic Valve Implantation (TAVI)",
+      "year": 2019,
+      "topic": "Valvular Disease",
+      "guideline_url": "https://pubmed.ncbi.nlm.nih.gov/31679616/",
+      "alt_urls": [],
+      "keywords": [
+        "TAVI",
+        "TAVR",
+        "transcatheter aortic valve implantation",
+        "aortic stenosis",
+        "severe symptomatic",
+        "heart team",
+        "patient selection",
+        "valvular disease",
+        "high risk",
+        "intermediate risk"
+      ]
+    },
+    {
+      "metadata_filter": "hchypertension2025",
+      "title": "Hypertension Canada's 2025 Comprehensive Guidelines for the Prevention, Diagnosis, Risk Assessment, and Treatment of Hypertension in Adults (Primary Care Focus)",
+      "year": 2025,
+      "topic": "Hypertension",
+      "guideline_url": "https://guidelines.hypertension.ca/",
+      "alt_urls": [],
+      "keywords": [
+        "hypertension",
+        "blood pressure",
+        "BP",
+        "130/80",
+        "primary care",
+        "risk assessment",
+        "treatment algorithm",
+        "combination therapy",
+        "low-dose combination",
+        "lifestyle",
+        "diagnosis",
+        "home BP",
+        "ambulatory BP"
+      ]
+    },
+    {
+      "metadata_filter": "ccspad2022",
+      "title": "Canadian Cardiovascular Society 2022 Guidelines for Peripheral Arterial Disease",
+      "year": 2022,
+      "topic": "Vascular Disease",
+      "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2822%2900156-8/fulltext",
+      "alt_urls": [],
+      "keywords": [
+        "peripheral arterial disease",
+        "PAD",
+        "aorta",
+        "limb arteries",
+        "claudication",
+        "critical limb ischemia",
+        "risk factor management",
+        "exercise therapy",
+        "revascularization",
+        "angioplasty",
+        "surgery",
+        "renal artery stenosis",
+        "mesenteric ischemia",
+        "abdominal aortic aneurysm",
+        "AAA"
+      ]
+    },
+    {
+      "metadata_filter": "ccsperiop2016",
+      "title": "Canadian Cardiovascular Society Guidelines on Perioperative Cardiac Risk Assessment and Management for Patients Who Undergo Noncardiac Surgery",
+      "year": 2016,
+      "topic": "Perioperative Management",
+      "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2816%2930980-1/fulltext",
+      "alt_urls": [],
+      "keywords": [
+        "perioperative",
+        "perioperative cardiac risk",
+        "noncardiac surgery",
+        "risk assessment",
+        "Revised Cardiac Risk Index",
+        "RCRI",
+        "functional capacity",
+        "stress testing",
+        "beta-blocker",
+        "statin",
+        "postoperative monitoring"
+      ]
+    }
+  ],
+  "meta": {
+    "schema_version": "1.0",
+    "generated_from": "2025 12 23 canadian cardiovascular guidelines.docx",
+    "generated_on": "2026-01-06"
+  }
+}
