@@ -4,103 +4,31 @@
       "guide": "ccsstemi2019",
       "title": "2019 CCS/CAIC STEMI Reperfusion Update",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2818%2931321-7/fulltext",
-      "keywords": [
-        "STEMI",
-        "ST-elevation myocardial infarction",
-        "reperfusion",
-        "primary PCI",
-        "thrombolysis",
-        "regionalization",
-        "STEMI system of care",
-        "PCI networks",
-        "time-to-reperfusion",
-        "complications",
-        "secondary prevention"
-      ]
+      "description": "Comprehensive guidance on systems-of-care and reperfusion decision-making for acute ST-elevation myocardial infarction (STEMI), from first medical contact through definitive reperfusion. Covers prehospital triage and cath-lab activation, ED bypass, interhospital transfer, and selection of reperfusion strategy (primary PCI vs fibrinolysis vs pharmacoinvasive approach) with time-to-treatment targets. Includes criteria and management for failed fibrinolysis (eg, when to perform rescue PCI) and recommendations for early routine angiography/PCI after successful lysis. Addresses cath-lab strategy considerations in STEMI (culprit-only vs complete revascularization; staged approaches), and special situations such as cardiogenic shock and complex anatomy, alongside adjunct pharmacotherapy and post-reperfusion care within regional STEMI networks."
     },
     {
       "guide": "ccslipid2021",
       "title": "2021 CCS Dyslipidemia Prevention Guideline",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X(21)00165-3/fulltext",
-      "keywords": [
-        "dyslipidemia",
-        "lipids",
-        "LDL",
-        "non-HDL",
-        "risk assessment",
-        "Framingham Risk Score",
-        "lifestyle",
-        "pharmacotherapy",
-        "nonstatin",
-        "lipoprotein(a)",
-        "Lp(a)",
-        "coronary artery calcium",
-        "CAC",
-        "women",
-        "hypertensive disorders of pregnancy"
-      ]
+      "description": "Canadian guidance for ASCVD prevention through lipid/lipoprotein screening, cardiovascular risk assessment, and lipid-lowering treatment in adults. Covers who/when to screen, how to estimate risk (including FRS/CLEM), and lifestyle interventions. Emphasizes LDL-C–lowering strategies while incorporating non–HDL-C and ApoB as treatment metrics, and selective use of Lp(a) and coronary artery calcium (CAC) scoring for risk refinement and treatment decisions. Provides algorithms for initiating and intensifying statins across primary and secondary prevention, managing statin intolerance, and escalating to nonstatin therapies (eg, ezetimibe, PCSK9 inhibitors) when thresholds/targets are not met. Includes hypertriglyceridemia management for residual risk (including criteria for icosapent ethyl) and clarifies that non-prescription omega-3 supplements should not be used as evidence-based ASCVD risk-reduction therapy."
     },
     {
       "guide": "ccshfnref2025",
       "title": "2025 CCS/CHFS Guideline for HFnrEF",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2825%2900640-3/fulltext",
-      "keywords": [
-        "heart failure",
-        "HFnrEF",
-        "HFpEF",
-        "HFmrEF",
-        "nonreduced ejection fraction",
-        "LVEF > 40%",
-        "preserved EF",
-        "mildly reduced EF",
-        "SGLT2 inhibitor",
-        "MRA",
-        "mineralocorticoid receptor antagonist",
-        "ARNI",
-        "angiotensin receptor-neprilysin inhibitor",
-        "GLP-1 receptor agonist",
-        "pharmacologic management"
-      ]
+      "description": "Guidance on diagnosis and pharmacologic management of heart failure with nonreduced ejection fraction (HFnrEF; includes HFpEF and HFmrEF; LVEF >40%), focused on symptom relief, prevention of heart failure hospitalizations, and improving patient-centered outcomes. Covers clinical phenotyping and management of congestion (diuretics and volume optimization), initiation and selection of disease-modifying therapies used in this population (notably SGLT2 inhibitors, and consideration of agents such as MRAs and RAAS/ARNI-based therapy where appropriate), and practical titration/monitoring in the setting of common constraints (blood pressure, renal function, potassium). Emphasizes comorbidity-directed care that frequently drives symptoms and outcomes in HFnrEF (hypertension, atrial fibrillation, coronary disease, CKD, diabetes, obesity/metabolic disease, sleep-disordered breathing), including when to prioritize targeted therapies and multidisciplinary follow-up."
     },
     {
       "guide": "ccshfref2021",
       "title": "2021 CCS/CHFS Guideline for HFrEF",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X(21)00055-6/fulltext",
-      "keywords": [
-        "heart failure",
-        "HFrEF",
-        "reduced ejection fraction",
-        "quadruple therapy",
-        "GDMT",
-        "ARNI",
-        "beta-blocker",
-        "beta blocker",
-        "MRA",
-        "SGLT2 inhibitor",
-        "initiation",
-        "titration",
-        "mortality",
-        "heart failure hospitalization"
-      ]
+      "description": "Contemporary management of heart failure with reduced ejection fraction (HFrEF; typically LVEF ≤40%) emphasizing rapid initiation and titration of guideline-directed medical therapy (GDMT). Details foundational pharmacologic therapy (ARNI preferred over ACEI/ARB when feasible, evidence-based beta-blocker, mineralocorticoid receptor antagonist, and SGLT2 inhibitor), sequencing and titration strategies, target vs maximally tolerated dosing, and monitoring for renal function, potassium, blood pressure, and heart rate. Provides practical guidance for maintaining euvolemia with diuretics and for continuing, temporarily holding, and re-starting GDMT during intercurrent illness and hospitalization (with emphasis on re-initiation before discharge when possible). Addresses key comorbidities and adjunctive interventions (eg, anemia/iron deficiency, atrial fibrillation, diabetes/CKD) and includes device-therapy context (ICD/CRT) within modern HFrEF care and transitions-of-care planning."
     },
     {
       "guide": "ccsvtvf2020",
       "title": "2020 CCS/CHRS VT/VF Structural Heart Disease",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2820%2930326-3/fulltext",
-      "keywords": [
-        "ventricular tachycardia",
-        "VT",
-        "ventricular fibrillation",
-        "VF",
-        "structural heart disease",
-        "sustained VT",
-        "sudden cardiac death",
-        "ICD",
-        "implantable cardioverter defibrillator",
-        "risk stratification",
-        "antiarrhythmic",
-        "catheter ablation"
-      ]
+      "description": "Evidence-informed management of sustained ventricular tachycardia (VT) and ventricular fibrillation (VF) in patients with structural heart disease (eg, ischemic and non-ischemic cardiomyopathy, ARVC), spanning acute stabilization through long-term prevention. Covers acute treatment of stable and unstable VT/VF, management of recurrent VT/VF and electrical storm, and selection/escalation of antiarrhythmic drugs with attention to efficacy and adverse effects. Provides indications and practical considerations for catheter ablation (including substrate-based approaches and endocardial vs epicardial strategies) when arrhythmias are drug-refractory or associated with recurrent ICD therapies. Includes ICD-focused management: when to implant, how to program and optimize therapies (including ATP and shock minimization), and approaches to recurrent or inappropriate device therapies. Also addresses symptom burden, psychosocial impact, and shared decision-making in refractory cases."
     }
   ]
 }
