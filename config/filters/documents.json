@@ -3,7 +3,6 @@
     {
       "guide": "ccsstemi2019",
       "title": "2019 CCS/CAIC STEMI Reperfusion Update",
-      "year": 2019,
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2818%2931321-7/fulltext",
       "keywords": [
         "STEMI",
@@ -22,7 +21,6 @@
     {
       "guide": "ccslipid2021",
       "title": "2021 CCS Dyslipidemia Prevention Guideline",
-      "year": 2021,
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X(21)00165-3/fulltext",
       "keywords": [
         "dyslipidemia",
@@ -45,7 +43,6 @@
     {
       "guide": "ccshfnref2025",
       "title": "2025 CCS/CHFS Guideline for HFnrEF",
-      "year": 2025,
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2825%2900640-3/fulltext",
       "keywords": [
         "heart failure",
@@ -68,7 +65,6 @@
     {
       "guide": "ccshfref2021",
       "title": "2021 CCS/CHFS Guideline for HFrEF",
-      "year": 2021,
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X(21)00055-6/fulltext",
       "keywords": [
         "heart failure",
@@ -90,7 +86,6 @@
     {
       "guide": "ccsvtvf2020",
       "title": "2020 CCS/CHRS VT/VF Structural Heart Disease",
-      "year": 2020,
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2820%2930326-3/fulltext",
       "keywords": [
         "ventricular tachycardia",
