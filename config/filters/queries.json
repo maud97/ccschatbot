@@ -12,8 +12,8 @@
     "submitText": "Is apoB a better target than LDL-C for guiding lipid therapy?"
   },
   {
-    "label": "HFpEF GDMT",
-    "submitText": "What medications are recommended for patients with HFpEF?"
+    "label": "GDMT for LVEF > 40%",
+    "submitText": "What medications are recommended for patients with HF and LVEF > 40%?"
   },
   {
     "label": "Electrical storm management",
