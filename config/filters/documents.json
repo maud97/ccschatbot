@@ -44,6 +44,15 @@
       "status": "active",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X%2820%2930326-3/fulltext",
       "description": "Evidence-informed management of sustained ventricular tachycardia (VT) and ventricular fibrillation (VF) in patients with structural heart disease (eg, ischemic and non-ischemic cardiomyopathy, ARVC), spanning acute stabilization through long-term prevention. Covers acute treatment of stable and unstable VT/VF, management of recurrent VT/VF and electrical storm, and selection/escalation of antiarrhythmic drugs with attention to efficacy and adverse effects. Provides indications and practical considerations for catheter ablation (including substrate-based approaches and endocardial vs epicardial strategies) when arrhythmias are drug-refractory or associated with recurrent ICD therapies. Includes ICD-focused management: when to implant, how to program and optimize therapies (including ATP and shock minimization), and approaches to recurrent or inappropriate device therapies. Also addresses symptom burden, psychosocial impact, and shared decision-making in refractory cases."
+    },
+    {
+      "guide": "ccsantiplt2024",
+      "title": "2024 CCS/CAIC Antiplatelet Update",
+      "full_title": "2024 CCS/CAIC Focused Update of the Guidelines for the Use of Antiplatelet Therapy",
+      "published": "2024",
+      "status": "active",
+      "guideline_url": "https://onlinecjc.ca/article/S0828-282X(23)01841-X/fulltext",
+      "description": null
     }
   ]
 }
