@@ -12,8 +12,8 @@
     "submitText": "Is apoB a better target than LDL-C for guiding lipid therapy?"
   },
   {
-    "label": "GDMT for LVEF > 40%",
-    "submitText": "What medications are recommended for patients with HF and LVEF > 40%?"
+    "label": "Rapid AF + hypotension",
+    "submitText": "In a patient with rapid AF and hypotension, which rate control agent is recommended?"
   },
   {
     "label": "Electrical storm management",
