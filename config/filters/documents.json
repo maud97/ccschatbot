@@ -53,6 +53,15 @@
       "status": "active",
       "guideline_url": "https://onlinecjc.ca/article/S0828-282X(23)01841-X/fulltext",
       "description": null
+    },
+    {
+      "guide": "ccsaf2020",
+      "title": "2020 CCS/CHRS Guideline for AF",
+      "full_title": "2020 Canadian Cardiovascular Society/Canadian Heart Rhythm Society Comprehensive Guidelines for the Management of Atrial Fibrillation",
+      "published": "2020",
+      "status": "active",
+      "guideline_url": "https://onlinecjc.ca/article/S0828-282X(20)30991-0/fulltext",
+      "description": ""
     }
   ]
 }
